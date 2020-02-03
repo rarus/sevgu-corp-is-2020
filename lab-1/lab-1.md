@@ -16,5 +16,5 @@
 3. Демонстрация добавления лида в Битрикс24 с использованием CRM-формы на сайте
 
 ## Материалы для изучения
-[Документация по Bitrix24 — CRM-формы](https://helpdesk.bitrix24.ru/open/6875449/)
-[Документация по Bitrix24 — Сайты](https://helpdesk.bitrix24.ru/open/6507491/)
+- [Документация по Bitrix24 — CRM-формы](https://helpdesk.bitrix24.ru/open/6875449/)
+- [Документация по Bitrix24 — Сайты](https://helpdesk.bitrix24.ru/open/6507491/)
